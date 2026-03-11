@@ -17,7 +17,6 @@
 * 🎓 Software Engineering student
 * 💻 Interested in **software development and technology**
 * 🚀 Currently improving my skills in **Python, Java and software projects**
-* 🎮 Interested in **game development with Unity**
 * 📚 Always learning new things in **software engineering**
 
 ---
@@ -43,8 +42,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
 
 </p>
 
